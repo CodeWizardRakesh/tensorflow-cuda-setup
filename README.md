@@ -35,9 +35,14 @@ import tensorflow as tf
 print("Available GPUs:", tf.config.list_physical_devices('GPU'))
 print("Is GPU Available:", tf.test.is_gpu_available())
 ```
-## Additional Resources:
+## Additional Resources
 - [Tensorflow GPU support](https://www.tensorflow.org/install/pip)
 - [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)
 
+## Remember!
+Before running any commands or working on your project, always remember to activate your Conda environment to use your legendary GPU. You can do this by running the following command:
+``` bash
+conda activate your_env_name
+```
 
 *Hope you are successfull with this. Now continue building your project. Thank You*
