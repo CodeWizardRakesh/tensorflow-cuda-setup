@@ -12,3 +12,5 @@ Anaconda is a package manager that helps you manage your Python environments and
 ### a.Create a Conda environment
 ```bash
 conda create -n your_env_name python=3.10
+
+### b.Activate the Conda environment:
