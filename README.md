@@ -4,3 +4,6 @@ This guide will help you install CUDA and TensorFlow on a Windows machine. If yo
 ## Prerequisites
 - **Windows OS**: Ensure your system has a compatible NVIDIA GPU.
 - **Anaconda**: Recommended for managing Python environments
+
+##1. Install Anaconda (If not installed)
+Anaconda is a package manager that helps you manage your Python environments and dependencies. If you don't have Anaconda installed, [download it here](https://www.anaconda.com/download).
