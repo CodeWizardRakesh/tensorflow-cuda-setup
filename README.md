@@ -35,4 +35,7 @@ import tensorflow as tf
 print("Available GPUs:", tf.config.list_physical_devices('GPU'))
 print("Is GPU Available:", tf.test.is_gpu_available())
 ```
+##Additional Resources:
+- [Tensorflow GPU support](https://www.tensorflow.org/install/pip)
+- [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)
 
