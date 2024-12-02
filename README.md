@@ -39,3 +39,5 @@ print("Is GPU Available:", tf.test.is_gpu_available())
 - [Tensorflow GPU support](https://www.tensorflow.org/install/pip)
 - [CUDA Toolkit Documentation](https://docs.nvidia.com/cuda/)
 
+
+*Hope you are successfull with this. Now continue building your project. Thank You*
